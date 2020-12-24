@@ -1,0 +1,7 @@
+	SYSTEM REQUIREMENTS
+1.Internet connecton
+2.Minimum 512 RAM size
+3.Minimum 100gb disk space
+4.Minimun 1.0 Ghz processor
+
+
